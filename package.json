@@ -1,0 +1,30 @@
+{
+  "name": "bubble-wrap",
+  "version": "1.0.0",
+  "description": "Generate test reports with D3 charts",
+  "main": "Jakefile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "d3": "^5.7.0",
+    "jshint": "^2.9.6"
+  },
+  "devDependencies": {
+    "jake": "^8.0.18",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonmci/bubble-wrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonmci/bubble-wrap/issues"
+  },
+  "homepage": "https://github.com/jasonmci/bubble-wrap#readme"
+}
