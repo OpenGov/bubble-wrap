@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Cucumber Runner 2</h1>
+<p id="status">disconnected</p>
+<div id="runner"></div>
+<script>
+  // helper function: log message to screen
+  function stepStarted() {
+    var runner = document.getElementById("runner");
+    var resultNode = document.createElement("span");
+    resultNode.textContent = "*";
+    runner.appendChild(resultNode);
+  }
+
+  function stepResult(result) {
+    var resultNode = document.getElementById("runner").lastElementChild;
+    resultNode.textContent = result;
+  }
+
+  function clearRunner() {
+    document.getElementById('runner').innerHTML = "";
+  }
+
+  function statusWaiting() {
+    document.getElementById('status').textContent = "waiting";
+  }
+
+  function statusRunning() {
+    document.getElementById('status').textContent = "running";
+  }
+
+  function statusDisconnected() {
+      document.getElementById('status').textContent = "disconnected";
+    }
+
+  function done() {
+    statusWaiting();
+  }
+
+  var CucumberSocket = function() {
+    // beware the hard coded port
+    var ws = new WebSocket('ws://localhost:9001/');
+    var callbacks = {};
+
+    this.on = function(event_name, callback){
+      callbacks[event_name] = callback;
+      return this;
+    }
+
+    var dispatch = function(event_name, message){
+      var callback = callbacks[event_name];
+      if(typeof callback == 'undefined') return;
+      callback(message);
+    }
+
+    ws.onmessage = function(event){
+      var json = JSON.parse(event.data)
+      dispatch(json.event, json.data)
+    }
+
+    ws.onclose = function(){dispatch('close',null)}
+    ws.onopen = function(){dispatch('open',null)}
+  };
+
+  var cucumber = new CucumberSocket();
+
+  cucumber.on('open', statusWaiting);
+
+  cucumber.on('close', statusDisconnected);
+
+  cucumber.on('started', function() {
+      statusRunning();
+      clearRunner();
+  });
+
+  cucumber.on('test_step_started', function(data) {
+    stepStarted();
+  });
+
+  cucumber.on('test_step_finished', function(data) {
+    stepResult(data.result);
+  });
+
+  cucumber.on('done', function() {
+    statusWaiting();
+  })
+</script>
+</body>
+</html>
