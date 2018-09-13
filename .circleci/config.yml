@@ -17,7 +17,7 @@ jobs:
     working_directory: ~/repo
 
     steps:
-
+      - checkout
       # Download and cache dependencies
       # - restore_cache:
       #    keys:
@@ -33,5 +33,4 @@ jobs:
       #    key: v1-dependencies-{{ checksum "package.json" }}
         
       # run tests!
-      - run: ls -al
       - run: ./jake.sh
