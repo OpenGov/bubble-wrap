@@ -7,6 +7,7 @@
     "test": "test"
   },
   "dependencies": {
+    "crossfilter": "^1.3.12",
     "d3": "^5.7.0",
     "jshint": "^2.9.6"
   },

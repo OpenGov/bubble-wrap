@@ -2,984 +2,1505 @@
     "name": "flare",
     "children": [
         {
-            "name": "budget",
+            "name": "animal_kingdom",
             "children": [
                 {
-                    "name": "create a budget",
+                    "name": "acts_of_god",
                     "children": [
                         {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "delete a budget",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "edit a budget",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "edit a budget",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "edit a budget",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "edit a budget",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "edit a budget",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "edit a budget",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "edit a budget",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "edit a budget",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "edit a budget",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "entity admmin can create budget with a long name",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "edit a budget",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "edit a budget",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
-                        }
-                    ]
-                },
-                {
-                    "name": "share a budget",
-                    "children": [
-                        {
-                            "name": "edge 16",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "edge 17",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox minus 1",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "internet explorer 11",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "chrome",
-                            "size": 500,
-                            "status": "pass"
-                        },
-                        {
-                            "name": "firefox",
-                            "size": 500,
-                            "status": "fail"
+                            "name": "asteroid.feature",
+                            "children": [
+                                {
+                                    "name": "Dinosaurs do not survive",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Birds do survive",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Fish do survive",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Rocks are not living things",
+                                    "size": 200
+                                }
+                            ]
                         }
                     ]
                 }
             ]
         },
         {
-            "name": "workforce",
+            "name": "budget_builder",
             "children": [
                 {
-                    "name": "Easing",
-                    "size": 17010
-                },
-                {
-                    "name": "FunctionSequence",
-                    "size": 5842
-                },
-                {
-                    "name": "interpolate",
+                    "name": "budget_access.feature",
                     "children": [
                         {
-                            "name": "ArrayInterpolator",
-                            "size": 1983
+                            "name": "Entity admin can see budget access panel",
+                            "size": 200
                         },
                         {
-                            "name": "ColorInterpolator",
-                            "size": 2047
+                            "name": "Entity admin can search for user which can collaborate on the budget",
+                            "size": 200
                         },
                         {
-                            "name": "DateInterpolator",
-                            "size": 1375
+                            "name": "Entity admin can turn up access for user as 'Proposal Viewer'",
+                            "size": 200
                         },
                         {
-                            "name": "Interpolator",
-                            "size": 8746
+                            "name": "Entity admin can turn up access for user as 'View All + Create Proposals'",
+                            "size": 200
                         },
                         {
-                            "name": "MatrixInterpolator",
-                            "size": 2202
+                            "name": "Entity admin can turn down access for user",
+                            "size": 200
                         },
                         {
-                            "name": "NumberInterpolator",
-                            "size": 1382
+                            "name": "Entity admin can turn down access for user",
+                            "size": 200
                         },
                         {
-                            "name": "ObjectInterpolator",
-                            "size": 1629
-                        },
-                        {
-                            "name": "PointInterpolator",
-                            "size": 1675
-                        },
-                        {
-                            "name": "RectangleInterpolator",
-                            "size": 2042
+                            "name": "Entity admin can turn down access for user",
+                            "size": 200
                         }
                     ]
                 },
                 {
-                    "name": "ISchedulable",
-                    "size": 1041
-                },
-                {
-                    "name": "Parallel",
-                    "size": 5176
-                },
-                {
-                    "name": "Pause",
-                    "size": 449
-                },
-                {
-                    "name": "Scheduler",
-                    "size": 5593
-                },
-                {
-                    "name": "Sequence",
-                    "size": 5534
-                },
-                {
-                    "name": "Transition",
-                    "size": 9201
-                },
-                {
-                    "name": "Transitioner",
-                    "size": 19975
-                },
-                {
-                    "name": "TransitionEvent",
-                    "size": 1116
-                },
-                {
-                    "name": "Tween",
-                    "size": 6006
-                }
-            ]
-        },
-        {
-            "name": "data platform",
-            "children": [
-                {
-                    "name": "converters",
+                    "name": "budget_calculations",
                     "children": [
                         {
-                            "name": "Converters",
-                            "size": 721
+                            "name": "account_strings.feature",
+                            "children": [
+                                {
+                                    "name": "can add new account string",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "can remove account string",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "can't add the same new account string",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "can sort account strings by increase",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "can sort account strings by decrease",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "can add itemized entry description",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "adding an itemized entry amount",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "can add new account string to the top",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "can add new account string to the middle",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "can add new account string to the bottom",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "show account string segment info",
+                                    "size": 200
+                                }
+                            ]
                         },
                         {
-                            "name": "DelimitedTextConverter",
-                            "size": 4294
+                            "name": "chart",
+                            "children": [
+                                {
+                                    "name": "budget_account_strings.feature",
+                                    "children": [
+                                        {
+                                            "name": "Budget chart for a proposal with - expense operation account strings",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Budget chart for a proposal with + expense operation account strings",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Budget chart for a proposal with - revenue operation account strings",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Budget chart for a proposal with + revenue operation account strings",
+                                            "size": 200
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "budget_chart.feature",
+                                    "children": [
+                                        {
+                                            "name": "Budget chart for a new budget",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Budget chart for budget with proposal(with - expense operation)",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Budget chart for budget with proposal(with + expense operation)",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Budget chart for budget with proposal(with - revenue operation)",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Budget chart for budget with proposal(with + revenue operation)",
+                                            "size": 200
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "proposal_account_strings.feature",
+                                    "children": [
+                                        {
+                                            "name": "Proposal chart for a proposal with - expense operation account strings",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal chart for a proposal with + expense operation account strings",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal chart for a proposal with - revenue operation account strings",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal chart for a proposal with + revenue operation account strings",
+                                            "size": 200
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "proposal_chart.feature",
+                                    "children": [
+                                        {
+                                            "name": "Proposal chart for a proposal with - expense operation",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal chart for a proposal with + expense operation",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal chart for a proposal with - revenue operation",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal chart for a proposal with + revenue operation",
+                                            "size": 200
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "GraphMLConverter",
-                            "size": 9800
-                        },
-                        {
-                            "name": "IDataConverter",
-                            "size": 1314
-                        },
-                        {
-                            "name": "JSONConverter",
-                            "size": 2220
+                            "name": "status",
+                            "children": [
+                                {
+                                    "name": "budget_account_strings.feature",
+                                    "children": [
+                                        {
+                                            "name": "Budget status for a proposal with - expense operation account strings",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Budget status for a proposal with + expense operation account strings",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Budget status for a proposal with - revenue operation account strings",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Budget status for a proposal with + revenue operation account strings",
+                                            "size": 200
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "budget_status.feature",
+                                    "children": [
+                                        {
+                                            "name": "Budget status for budget with proposal(with - expense operation)",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Budget status for budget with proposal(with + expense operation)",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Budget status for budget with proposal(with - revenue operation)",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Budget status for budget with proposal(with + revenue operation)",
+                                            "size": 200
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "proposal_account_strings.feature",
+                                    "children": [
+                                        {
+                                            "name": "Proposal status for a proposal with - expense operation account strings",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal status for a proposal with + expense operation account strings",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal status for a proposal with - revenue operation account strings",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal status for a proposal with + revenue operation account strings",
+                                            "size": 200
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "proposal_status.feature",
+                                    "children": [
+                                        {
+                                            "name": "Proposal summary sanity check - expense",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal summary sanity check - revenues",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal status for a proposal with - expense operation",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal status for a proposal with + expense operation",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal status for a proposal with - revenue operation",
+                                            "size": 200
+                                        },
+                                        {
+                                            "name": "Proposal status for a proposal with + revenue operation",
+                                            "size": 200
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
                 {
-                    "name": "DataField",
-                    "size": 1759
-                },
-                {
-                    "name": "DataSchema",
-                    "size": 2165
-                },
-                {
-                    "name": "DataSet",
-                    "size": 586
-                },
-                {
-                    "name": "DataSource",
-                    "size": 3331
-                },
-                {
-                    "name": "DataTable",
-                    "size": 772
-                },
-                {
-                    "name": "DataUtil",
-                    "size": 3322
-                }
-            ]
-        },
-        {
-            "name": "performance measure",
-            "children": [
-                {
-                    "name": "DirtySprite",
-                    "size": 8833
-                },
-                {
-                    "name": "LineSprite",
-                    "size": 1732
-                },
-                {
-                    "name": "RectSprite",
-                    "size": 3623
-                },
-                {
-                    "name": "TextSprite",
-                    "size": 10066
-                }
-            ]
-        },
-        {
-            "name": "strategic initiatives",
-            "children": [
-                {
-                    "name": "DragForce",
-                    "size": 1082
-                },
-                {
-                    "name": "GravityForce",
-                    "size": 1336
-                },
-                {
-                    "name": "IForce",
-                    "size": 319
-                },
-                {
-                    "name": "NBodyForce",
-                    "size": 10498
-                },
-                {
-                    "name": "Particle",
-                    "size": 2822
-                },
-                {
-                    "name": "Simulation",
-                    "size": 9983
-                },
-                {
-                    "name": "Spring",
-                    "size": 2213
-                },
-                {
-                    "name": "SpringForce",
-                    "size": 1681
-                }
-            ]
-        },
-        {
-            "name": "stories",
-            "children": [
-                {
-                    "name": "AggregateExpression",
-                    "size": 1616
-                },
-                {
-                    "name": "And",
-                    "size": 1027
-                },
-                {
-                    "name": "Arithmetic",
-                    "size": 3891
-                },
-                {
-                    "name": "Average",
-                    "size": 891
-                },
-                {
-                    "name": "BinaryExpression",
-                    "size": 2893
-                },
-                {
-                    "name": "Comparison",
-                    "size": 5103
-                },
-                {
-                    "name": "CompositeExpression",
-                    "size": 3677
-                },
-                {
-                    "name": "Count",
-                    "size": 781
-                },
-                {
-                    "name": "DateUtil",
-                    "size": 4141
-                },
-                {
-                    "name": "Distinct",
-                    "size": 933
-                },
-                {
-                    "name": "Expression",
-                    "size": 5130
-                },
-                {
-                    "name": "ExpressionIterator",
-                    "size": 3617
-                },
-                {
-                    "name": "Fn",
-                    "size": 3240
-                },
-                {
-                    "name": "If",
-                    "size": 2732
-                },
-                {
-                    "name": "IsA",
-                    "size": 2039
-                },
-                {
-                    "name": "Literal",
-                    "size": 1214
-                },
-                {
-                    "name": "Match",
-                    "size": 3748
-                },
-                {
-                    "name": "Maximum",
-                    "size": 843
-                },
-                {
-                    "name": "methods",
+                    "name": "budget_cloning_p1.feature",
                     "children": [
                         {
-                            "name": "add",
-                            "size": 593
+                            "name": "Clone a budget with the same dataset",
+                            "size": 200
                         },
                         {
-                            "name": "and",
-                            "size": 330
-                        },
-                        {
-                            "name": "average",
-                            "size": 287
-                        },
-                        {
-                            "name": "count",
-                            "size": 277
-                        },
-                        {
-                            "name": "distinct",
-                            "size": 292
-                        },
-                        {
-                            "name": "div",
-                            "size": 595
-                        },
-                        {
-                            "name": "eq",
-                            "size": 594
-                        },
-                        {
-                            "name": "fn",
-                            "size": 460
-                        },
-                        {
-                            "name": "gt",
-                            "size": 603
-                        },
-                        {
-                            "name": "gte",
-                            "size": 625
-                        },
-                        {
-                            "name": "iff",
-                            "size": 748
-                        },
-                        {
-                            "name": "isa",
-                            "size": 461
-                        },
-                        {
-                            "name": "lt",
-                            "size": 597
-                        },
-                        {
-                            "name": "lte",
-                            "size": 619
-                        },
-                        {
-                            "name": "max",
-                            "size": 283
-                        },
-                        {
-                            "name": "min",
-                            "size": 283
-                        },
-                        {
-                            "name": "mod",
-                            "size": 591
-                        },
-                        {
-                            "name": "mul",
-                            "size": 603
-                        },
-                        {
-                            "name": "neq",
-                            "size": 599
-                        },
-                        {
-                            "name": "not",
-                            "size": 386
-                        },
-                        {
-                            "name": "or",
-                            "size": 323
-                        },
-                        {
-                            "name": "orderby",
-                            "size": 307
-                        },
-                        {
-                            "name": "range",
-                            "size": 772
-                        },
-                        {
-                            "name": "select",
-                            "size": 296
-                        },
-                        {
-                            "name": "stddev",
-                            "size": 363
-                        },
-                        {
-                            "name": "sub",
-                            "size": 600
-                        },
-                        {
-                            "name": "sum",
-                            "size": 280
-                        },
-                        {
-                            "name": "update",
-                            "size": 307
-                        },
-                        {
-                            "name": "variance",
-                            "size": 335
-                        },
-                        {
-                            "name": "where",
-                            "size": 299
-                        },
-                        {
-                            "name": "xor",
-                            "size": 354
-                        },
-                        {
-                            "name": "_",
-                            "size": 264
+                            "name": "Clone a budget with a subset of dataset",
+                            "size": 200
                         }
                     ]
                 },
                 {
-                    "name": "Minimum",
-                    "size": 843
+                    "name": "budget_cloning_p2.feature",
+                    "children": [
+                        {
+                            "name": "Clone a budget with operation lines more than 5000 and itemized entries",
+                            "size": 200
+                        },
+                        {
+                            "name": "Clone a budget with attachment",
+                            "size": 200
+                        }
+                    ]
                 },
                 {
-                    "name": "Not",
-                    "size": 1554
+                    "name": "budget_landing_page.feature",
+                    "children": [
+                        {
+                            "name": "An entity with budgets visit a budget by default",
+                            "size": 200
+                        },
+                        {
+                            "name": "An new entity with budgets feature, COA, dataset can see budget creation panel",
+                            "size": 200
+                        },
+                        {
+                            "name": "An entity using budget for the first time sees the EULA",
+                            "size": 200
+                        },
+                        {
+                            "name": "An entity with no budgets does not have any base budget options",
+                            "size": 200
+                        }
+                    ]
                 },
                 {
-                    "name": "Or",
-                    "size": 970
+                    "name": "chart_history.feature",
+                    "children": [
+                        {
+                            "name": "Go back in the budget chart history",
+                            "size": 200
+                        },
+                        {
+                            "name": "Go back in the proposal chart history",
+                            "size": 200
+                        },
+                        {
+                            "name": "Budget charts without history cannot be reset",
+                            "size": 200
+                        },
+                        {
+                            "name": "Chart history buttons are disabled when there is no history",
+                            "size": 200
+                        }
+                    ]
                 },
                 {
-                    "name": "Query",
-                    "size": 13896
+                    "name": "chart_history_fetching.feature",
+                    "children": [
+                        {
+                            "name": "Budget chart reset returns the correct values",
+                            "size": 200
+                        },
+                        {
+                            "name": "Proposal chart reset returns the correct values",
+                            "size": 200
+                        }
+                    ]
                 },
                 {
-                    "name": "Range",
-                    "size": 1594
+                    "name": "consolidated_line_items",
+                    "children": [
+                        {
+                            "name": "expandable_line_items.feature",
+                            "children": [
+                                {
+                                    "name": "Expandable line item check: calculation, line item links",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "filtration.feature",
+                            "children": [
+                                {
+                                    "name": "Filtering each column between '>= From' and '<=To'",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "proposal_filter.feature",
+                            "children": [
+                                {
+                                    "name": "Proposal status 'In Progress'",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Proposal status 'Rejected'",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "No proposal statuses selected",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Proposal status 'Rejected' and 'In Progress'",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sort_ascending.feature",
+                            "children": [
+                                {
+                                    "name": "Sort each column ascending",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sort_descending.feature",
+                            "children": [
+                                {
+                                    "name": "Sort each column descendingly",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "total_amount_calculations.feature",
+                            "children": [
+                                {
+                                    "name": "Total revenue base amount is correct",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Total expense base amount is correct",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Total revenue adjustment amount is correct",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Total expense adjustment amount is correct",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Total revenue proposed amount is correct",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Total expense proposed amount is correct",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Total revenue percent changed amount is correct",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Total expense percent changed amount is correct",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Each revenue line item percent changed is correct",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Each expense line item percent changed is correct",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "worksheet_links.feature",
+                            "children": [
+                                {
+                                    "name": "Worksheet link under non-expandable line item works",
+                                    "size": 200
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
-                    "name": "StringUtil",
-                    "size": 4130
+                    "name": "create_budget.feature",
+                    "children": [
+                        {
+                            "name": "Create a budget",
+                            "size": 200
+                        },
+                        {
+                            "name": "Canceling a new budget creation process",
+                            "size": 200
+                        },
+                        {
+                            "name": "Workforce 'Get Started' button is present",
+                            "size": 200
+                        },
+                        {
+                            "name": "Create a budget with a link to a workforce",
+                            "size": 200
+                        },
+                        {
+                            "name": "Create a budget without a link to a workforce",
+                            "size": 200
+                        }
+                    ]
                 },
                 {
-                    "name": "Sum",
-                    "size": 791
+                    "name": "edit_budget.feature",
+                    "children": [
+                        {
+                            "name": "Rename budget",
+                            "size": 200
+                        },
+                        {
+                            "name": "Change Budget Year",
+                            "size": 200
+                        },
+                        {
+                            "name": "Delete budget",
+                            "size": 200
+                        },
+                        {
+                            "name": "Confirmation tab appeared when delete budget",
+                            "size": 200
+                        }
+                    ]
                 },
                 {
-                    "name": "Variable",
-                    "size": 1124
+                    "name": "edit_coa_references.feature",
+                    "children": [
+                        {
+                            "name": "Edit budget COA reference",
+                            "size": 200
+                        }
+                    ]
                 },
                 {
-                    "name": "Variance",
-                    "size": 1876
+                    "name": "edit_reference_years.feature",
+                    "children": [
+                        {
+                            "name": "Edit budget reference years for non UDI entity",
+                            "size": 200
+                        },
+                        {
+                            "name": "Edit budget reference years for UDI entity",
+                            "size": 200
+                        }
+                    ]
                 },
                 {
-                    "name": "Xor",
-                    "size": 1101
+                    "name": "export_budget.feature",
+                    "children": [
+                        {
+                            "name": "Publish to Dataset",
+                            "size": 200
+                        },
+                        {
+                            "name": "Export Budget Amounts",
+                            "size": 200
+                        },
+                        {
+                            "name": "Publish to Dataset (UDI)",
+                            "size": 200
+                        },
+                        {
+                            "name": "All Proposals Export",
+                            "size": 200
+                        },
+                        {
+                            "name": "Consolidated Budget Export",
+                            "size": 200
+                        }
+                    ]
+                },
+                {
+                    "name": "finalize_budget.feature",
+                    "children": [
+                        {
+                            "name": "Start to finalize a budget I created",
+                            "size": 200
+                        },
+                        {
+                            "name": "Confirm to finalize my budget",
+                            "size": 200
+                        },
+                        {
+                            "name": "Attempt to finalize a budget without permission",
+                            "size": 200
+                        },
+                        {
+                            "name": "The Budget review modal displayed right data",
+                            "size": 200
+                        }
+                    ]
+                },
+                {
+                    "name": "multi_periods",
+                    "children": [
+                        {
+                            "name": "multi_period_budget.feature",
+                            "children": [
+                                {
+                                    "name": "Multi-period Roll-Forward Adjustment Budget",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Multi-period Fixed-Base Adjustment Budget",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "multi_period_budget_cloning.feature",
+                            "children": [
+                                {
+                                    "name": "Clone a Multi-period Roll-Forward Adjustment Budget",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Clone a Multi-period fixed-base Budget with blank period names",
+                                    "size": 200
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "proposals",
+                    "children": [
+                        {
+                            "name": "activity.feature",
+                            "children": [
+                                {
+                                    "name": "Started with proposal creation",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Displays creation of operations",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Displays editing of operations",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Displays deletion of operations",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Display proposal submitted",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "budget_proposal_permissions.feature",
+                            "children": [
+                                {
+                                    "name": "Budget creator can create an operation",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Entity Admin can create a budget",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Budget creator can create a proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Budget creator can reject a proposal",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "create_proposal.feature",
+                            "children": [
+                                {
+                                    "name": "Create a proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "View a proposal",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "entity_user_actions",
+                            "children": [
+                                {
+                                    "name": "no_access.feature",
+                                    "children": [
+                                        {
+                                            "name": "Entity user has no access to budget see budget landing page",
+                                            "size": 200
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "shared_proposal",
+                                    "children": [
+                                        {
+                                            "name": "view_access.feature",
+                                            "children": [
+                                                {
+                                                    "name": "can not create the proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can not delete the proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can edit the proposal title",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can edit the proposal details",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can add support documents",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can delete support documents",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can create expense operations",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can create revenue operations",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can adjust amounts and persist to the backend",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can see activity feed",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can share proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "Can not see export proposal link",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "Can modify worksheet title",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "Can adjust worksheet amount",
+                                                    "size": 200
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "view_create_access.feature",
+                                            "children": [
+                                                {
+                                                    "name": "can create the proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can not delete the proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can edit the proposal title",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can edit the proposal details",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can add support documents",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can delete support documents",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can create expense operations",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can create revenue operations",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can adjust amounts and persist to the backend",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can see activity feed",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can share proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "Can not see export proposal link",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "Can modify worksheet title",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "Can adjust worksheet amount",
+                                                    "size": 200
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "view+create_access",
+                                    "children": [
+                                        {
+                                            "name": "can_do.feature",
+                                            "children": [
+                                                {
+                                                    "name": "can create the proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can delete the proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can edit the proposal title",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can edit the proposal details",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can add support documents",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can delete support documents",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can create expense operations",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can create revenue operations",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can adjust amounts and persist to the backend",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can see activity feed",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can share proposal",
+                                                    "size": 200
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "cannot_do.feature",
+                                            "children": [
+                                                {
+                                                    "name": "can't update title for someone else proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't update description for someone else proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't share someone else proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't create expense operations",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't create revenue operations",
+                                                    "size": 200
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "review_phase_cannot_do.feature",
+                                            "children": [
+                                                {
+                                                    "name": "can't update title for someone else proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't update description for someone else proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't share someone else proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't create expense operations",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't create revenue operations",
+                                                    "size": 200
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "view_access",
+                                    "children": [
+                                        {
+                                            "name": "entity_user_actions_v.feature",
+                                            "children": [
+                                                {
+                                                    "name": "can't create the proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't delete the proposal",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't edit the proposal title",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't edit the proposal details",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't create expense operations",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't create revenue operations",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can see activity feed",
+                                                    "size": 200
+                                                },
+                                                {
+                                                    "name": "can't share proposal",
+                                                    "size": 200
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "hardfordmd.feature",
+                            "children": [
+                                {
+                                    "name": "can sort account string by ascending order",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "can sort account string by descending order",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "open_in_excel.feature",
+                            "children": [
+                                {
+                                    "name": "check status with turned off budget_excel_add_in permission",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "check status with turned on budget_excel_add_in permission",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "entity users with 'View All + Create Proposals' access can see Open_in_Excel",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "operation_table.feature",
+                            "children": [
+                                {
+                                    "name": "show updated totals for Expense operation",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "show updated totals for Revenue operation",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "operations.feature",
+                            "children": [
+                                {
+                                    "name": "Create a first operation for new proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create multiple operations for a new proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Can edit operations name",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Modify selected nodes for an operation",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Verify selected nodes stay selected",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create an operation for a submitted rejected or resubmitted proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Modify an operation for a submitted rejected or resubmitted proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Delete an operation for a submitted rejected or resubmitted proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Cancel operation creation for new proposal",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "proposal_permissions.feature",
+                            "children": [
+                                {
+                                    "name": "Budget creator can create an operation",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Entity Admin can create a budget",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Budget creator can create a proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Budget creator can reject a proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Promoted OpenGov users can see the new proposal button",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "proposal_table.feature",
+                            "children": [
+                                {
+                                    "name": "show status 'In Progress'",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "show status 'Submitted'",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "show status 'Rejected'",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "show status 'Resubmitted'",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "show proposal's author",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "show 'Expense Proposal'",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "show 'Revenue Proposal'",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "rejecting_proposal.feature",
+                            "children": [
+                                {
+                                    "name": "Reject a proposal (Request Proposal Revisions)",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Reject a proposal without a reason (Request Proposal Revisions)",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Submitted proposals have a Request Proposal Revisions",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Rejected proposals have no RPR",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Open proposals have no RPR",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Resubmitted proposals have an RPR",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Canceling a revision request",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Entity user have the ability to revise his own proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Entity user does not have the ability to revise someone else proposal",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "search_for_proposals.feature",
+                            "children": [
+                                {
+                                    "name": "Searching for a proposal by title",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Searching for a proposal by description",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "share_proposal.feature",
+                            "children": [
+                                {
+                                    "name": "Can add other users to proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Can remove users from proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Can edit shared proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Can share shared proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Can not share not shared proposal",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "view_proposals.feature",
+                            "children": [
+                                {
+                                    "name": "View the proposal grid",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Use search bar to filter through the proposal",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Special characters do not break the search",
+                                    "size": 200
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "search_for_budget.feature",
+                    "children": [
+                        {
+                            "name": "Create a budget then switch to a previous budget",
+                            "size": 200
+                        },
+                        {
+                            "name": "Searching for a budget",
+                            "size": 200
+                        }
+                    ]
+                },
+                {
+                    "name": "smoke_test",
+                    "children": [
+                        {
+                            "name": "budget_cloning_smoke.feature",
+                            "children": [
+                                {
+                                    "name": "Clone a budget with a subset of dataset",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "budget_smoke.feature",
+                            "children": [
+                                {
+                                    "name": "Create a budget, proposal, worksheet",
+                                    "size": 200
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "tooltips.feature",
+                    "children": [
+                        {
+                            "name": "Budget charts have tooltips",
+                            "size": 200
+                        },
+                        {
+                            "name": "Proposal charts have tooltips",
+                            "size": 200
+                        },
+                        {
+                            "name": "Tooltips data updated to reflect user's mouse move",
+                            "size": 200
+                        }
+                    ]
+                },
+                {
+                    "name": "workforce",
+                    "children": [
+                        {
+                            "name": "cost_element_creation.feature",
+                            "children": [
+                                {
+                                    "name": "Create Hourly Wage cost element",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create Overtime cost element",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create Holiday Bonus cost element",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create Merit Increase cost element",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create Bonus cost element",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create Cost of Living Increase cost element",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create FICA cost element",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create MCare cost element",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create Health cost element",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create Pension cost element",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create Bargaining Unit cost element",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create Equipment cost element",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Update a cost element",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "forecasts.feature",
+                            "children": [
+                                {
+                                    "name": "Verify 'Projected Total Cost' of a position is correct",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Verify 'Proposed Total' amount is correct",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Verify the calculated value of a cost element is correct",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "positions.feature",
+                            "children": [
+                                {
+                                    "name": "Verify a position details",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Verify a position's cost elements",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Proposed Personnel cost total",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Verify a position's projected total cost",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Verify a position details",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "workforce_creation.feature",
+                            "children": [
+                                {
+                                    "name": "Create a new workforce (Happy pass)",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Update a workforce plan basic info",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Create a new workforce plan without starting date",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Workforce Plan creation without ending date",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Workforce Plan creation without name",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Workforce Plan creation without a description",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Download Workforce plan template",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Upload a completed template",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "workforce_permission.feature",
+                            "children": [
+                                {
+                                    "name": "Workforce feature is turned on",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Workforce landing page format -- there are some workforce plans",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "open first workforce plan",
+                                    "size": 200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "workforce_update.feature",
+                            "children": [
+                                {
+                                    "name": "Verify workforce name update",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Upload a completed template will override the existing WF plan",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Verify a forecast updated after modifying a cost element",
+                                    "size": 200
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "plant_kingdom",
+            "children": [
+                {
+                    "name": "north_america",
+                    "children": [
+                        {
+                            "name": "rain.feature",
+                            "children": [
+                                {
+                                    "name": "Weeds do not survive",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Gardens do survive",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Deserts do survive",
+                                    "size": 200
+                                },
+                                {
+                                    "name": "Water is not alive",
+                                    "size": 200
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }

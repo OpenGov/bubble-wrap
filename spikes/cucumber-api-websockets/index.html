@@ -7,17 +7,39 @@
 <p id="status">disconnected</p>
 <div id="runner"></div>
 <script>
+  
+  var flare = {};  
+  function runStarted() {
+
+    flare.name = "flare";
+    flare.children = [];
+    var runner = document.getElementById("runner");
+    var resultNode = document.createElement("span");
+    resultNode.textContent = "{";
+    runner.appendChild(resultNode);
+  };
+
+  function runFinished() {
+    var runner = document.getElementById("runner");
+    var resultNode = document.createElement("span");
+    resultNode.textContent = "}";
+    runner.appendChild(resultNode);
+    console.log(flare);
+  };
+
   // helper function: log message to screen
-  function stepStarted() {
+  function testStarted() {
     var runner = document.getElementById("runner");
     var resultNode = document.createElement("span");
     resultNode.textContent = "*";
     runner.appendChild(resultNode);
   }
 
-  function stepResult(result) {
+  function testResult(data) {
     var resultNode = document.getElementById("runner").lastElementChild;
-    resultNode.textContent = result;
+    resultNode.textContent = data.result + " " + data.location + " " + data.name;
+    flare.children.push({ "name": data.name, "size": "200", "status": data.result});
+    console.log(flare);
   }
 
   function clearRunner() {
@@ -76,12 +98,20 @@
       clearRunner();
   });
 
-  cucumber.on('test_step_started', function(data) {
-    stepStarted();
+  cucumber.on('test_run_started', function(data) {
+    runStarted();
   });
 
-  cucumber.on('test_step_finished', function(data) {
-    stepResult(data.result);
+  cucumber.on('test_run_finished', function(data) {
+    runFinished();
+  });
+
+  cucumber.on('test_case_started', function(data) {
+    testStarted();
+  });
+
+  cucumber.on('test_case_finished', function(data) {
+    testResult(data);
   });
 
   cucumber.on('done', function() {
